@@ -35,7 +35,7 @@ class PatiRepo:
     def get_dept_fee(self, dept):
         return self.dept_fees.get(dept, 0)
 
+    def admin(self):
+        print(self.patients)
 
 
-if __name__ == '__main__':
-    repo = PatiRepo()

@@ -1,4 +1,5 @@
 from admin_service import AdminService
+from consultation.service import *
 from consultation.menu import Menu
 
 class Admin_menu:
@@ -20,6 +21,7 @@ class Admin_menu:
             choice = input(menu_str)
 
             if choice == '1':
+                self.service.admin()
                 print("======== 누적 환자 수 ========")
                 self.admin.count_dept_patients()
 

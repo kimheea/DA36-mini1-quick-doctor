@@ -48,6 +48,10 @@ class PatiService:
             dept_fee = self.repository.get_dept_fee(patient[4])
             return dept_fee
 
+    def admin(self):
+        return self.repository.admin()
+
+
 if __name__ == '__main__':
     service = PatiService()
     service.find_patient_by_reservation('20241004001')
