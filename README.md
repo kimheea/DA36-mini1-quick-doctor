@@ -43,6 +43,7 @@
 
 #### 오류발생2
 ![](https://velog.velcdn.com/images/ae__0519/post/f83e5cfe-8a9f-47f6-96b2-d7520eed4f34/image.png)
+
 당시 접수 조회시 하나씩 밀려서 출력이 되는 오류 발생
 코드 진행 시 잘못 기입으로 일어난 비교적 간단한 오류로 마무리
 
@@ -52,6 +53,7 @@ admin 페이지 추가 및 정리(민하님)
 #### 오류발생3
 1. txt 파일로 저장자체가 안됨
 2. txt 파일로 불러오는데 객체 주소만 출력되고 내용이 출력 안됨.
+
 ![](https://velog.velcdn.com/images/ae__0519/post/086158cb-1aa0-4adf-82ee-9ba4e3632c5e/image.jpg)
 
 해결
@@ -60,12 +62,15 @@ admin 페이지 추가 및 정리(민하님)
 
 ## 문서 정리 마무리
 **기획안 및 WBS 템플릿 마무리
+
 **![](https://velog.velcdn.com/images/ae__0519/post/14850567-6ec1-4300-b509-afb512743602/image.png)
 
 **PPT 계획서**
+
 ![](https://velog.velcdn.com/images/ae__0519/post/9321f7e7-f9d3-4518-ba46-a1f06261dc6a/image.png)
 
 **PPT 일부**
+
 ![](https://velog.velcdn.com/images/ae__0519/post/21af2f50-d4ae-4463-aeb6-2dd8952b622e/image.png)
 
 
