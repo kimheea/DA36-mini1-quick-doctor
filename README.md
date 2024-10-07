@@ -82,3 +82,5 @@ admin 페이지 추가 및 정리(민하님)
 
 **시연영상**
 https://youtu.be/r2Bs4C5yWr8?si=8NCJT0YvKWjb5xFE
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r2Bs4C5yWr8?si=jWzRzXcwHXnZC11h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
