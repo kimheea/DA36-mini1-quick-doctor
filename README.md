@@ -22,7 +22,9 @@
 4. 결제 후 영수증과 처방전(환자정보/ 진료날짜/ 진료내역) 발급창을 확인 할 수 있습니다.
 
 ## 회의
+
 ![](https://velog.velcdn.com/images/ae__0519/post/bfefeb15-13f7-4cbd-a1f3-31df695b5da9/image.png 
+
 
 ## 코드진행
 **2024.09.30**
@@ -56,7 +58,8 @@ admin 페이지 추가 및 정리(민하님)
 
 ![](https://velog.velcdn.com/images/ae__0519/post/086158cb-1aa0-4adf-82ee-9ba4e3632c5e/image.jpg)
 
-해결
+
+#### 해결
 1. 파일의 상대경로 말고 절대경로 이용하기
 2. txt 파일을 정리된채로 부르기 위해 strip(), split도 사용
 
@@ -65,13 +68,16 @@ admin 페이지 추가 및 정리(민하님)
 
 **![](https://velog.velcdn.com/images/ae__0519/post/14850567-6ec1-4300-b509-afb512743602/image.png)
 
+
 **PPT 계획서**
 
 ![](https://velog.velcdn.com/images/ae__0519/post/9321f7e7-f9d3-4518-ba46-a1f06261dc6a/image.png)
 
+
 **PPT 일부**
 
 ![](https://velog.velcdn.com/images/ae__0519/post/21af2f50-d4ae-4463-aeb6-2dd8952b622e/image.png)
+
 
 
 **시연영상**
